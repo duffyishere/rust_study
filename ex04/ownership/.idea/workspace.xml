@@ -35,6 +35,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
+    "nodejs_package_manager_path": "npm",
     "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
     "show.migrate.to.gradle.popup": "false"
   }
@@ -69,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667666238084</updated>
-      <workItem from="1667666240509" duration="457000" />
+      <workItem from="1667666240509" duration="1731000" />
     </task>
     <servers />
   </component>
